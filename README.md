@@ -1,4 +1,5 @@
 Aula 2🚀
+
 Nessa aula aprendemos sobre variaveis, if e else, condicionais, chave {}
 
 🔌Como fazer funcionar na sua máquina:
