@@ -12,10 +12,13 @@ ou utilize uma aplicação web, para ambiente python
 Python instalado no sistema
 
 🛠️Tecnologias utilizadas:
+
 Editor de código: Visual Code
 
 Versões:
+
 Python 3.10
 
 Autores:
+
 João Paulo de Carvalho
