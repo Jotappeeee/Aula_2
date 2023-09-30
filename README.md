@@ -7,6 +7,7 @@ Instale Python na sua máquina;
 ou utilize uma aplicação web, para ambiente python
 
 📋Pré-requisitos do sistema:
+
 Python instalado no sistema
 
 🛠️Tecnologias utilizadas:
